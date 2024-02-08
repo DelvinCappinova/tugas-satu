@@ -7,4 +7,4 @@ while x <= 400000000:
   x = float(x*((100+bunga)/100))
 
 y = float(round(x))
-print (f"Perlu waktu {tahun} tahun untuk merubah Rp. 200000000 menjadi Rp {y}")
+print (f"Waktu yang dibutuhkan adalah {tahun} tahun untuk merubah Rp.200000000 menjadi Rp.{y}")
